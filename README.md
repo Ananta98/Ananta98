@@ -5,6 +5,8 @@
 💬 Ask me about my experience in programming languages and working on a wide range of projects.<br/>
 ⚡ Fun fact: In my free time, I always learn new technology stack to expanding my knowledge to be able relevant in tech Industry. From programming languages, frameworks, and github repository trendings<br/>
 
+👯 For My Profile Portfolio Website: https://ananta-portfolio-website.vercel.app/
+
 📃 Highlighted Portfolio:<br/>
 Golang:<br/>
 a) Blogspot Backend : https://github.com/Ananta98/Go-Blogspot-Backend.<br/>
@@ -25,8 +27,6 @@ a) Job Finder React JS : https://ananta-final-react.netlify.app/<br/>
 a) Blogspot Golang Backend : https://fp-sanbercode-go-48-ananta-production.up.railway.app/swagger/index.html<br/>
 b) Job Finder React JS : https://ananta-final-react.netlify.app/<br/>
 c) Flutter News App demonstration : https://youtu.be/PkzQP_Sk0EU?si=6erj5SOiSbw5LxtE<br/>
-
-👯 For Portfolio Website: https://ananta-portfolio-website.vercel.app/
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/anantakusumap) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ananta-pangkasidhi-740118281) 
