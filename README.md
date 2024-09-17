@@ -1,6 +1,6 @@
 💫 About Me:<br/>
-🔭 I am currently working on front end web using Java ZK Framework UI and Automated Testing using Java Cucumber Testing calculation report configuration for manufacturing.<br/>
-👯 I am looking to collaborate on projects that involve creating scalable and efficient backend server-side systems using Golang or creating beautiful UI for Web and Mobile using React JS and Flutter.<br/>
+🔭 I am currently working on front end web using Svelte for web 3 application<br/>
+👯 I am looking to collaborate on projects that involve creating scalable and efficient backend server-side systems using Golang or creating beautiful UI for Web and Mobile using React JS, Svelte JS, and Flutter.<br/>
 🤝 I am looking for help in staying informed about the latest trends and innovations in the tech industry, expanding my knowledge of programming languages and frameworks, and also able to work as a team.<br/>
 💬 Ask me about my experience in programming languages and working on a wide range of projects.<br/>
 ⚡ Fun fact: In my free time, I always learn new technology stack to expanding my knowledge to be able relevant in tech Industry. From programming languages, frameworks, and github repository trendings<br/>
