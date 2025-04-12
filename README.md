@@ -16,12 +16,16 @@ Python:<br/>
 a) Note Taking Python backend Project: https://github.com/Ananta98/Simple-Fast-API-Python<br/>
 b) Pass Keeper Python backend Project: https://github.com/Ananta98/Password-Manager-Fast-API<br/>
 c) E-Commerce shop Python Django web project: https://github.com/Ananta98/django-marketplace<br/>
+d) Fullstack using Python Fast API and front end next js: https://github.com/Ananta98/fullstack-next-js-fast-api<br/>
 Flutter:<br/>
 a) Flutter News App : https://github.com/Ananta98/Flutter-News-Project.<br/>
 b) Flutter Recipe App: Ananta98/Flutter-Recipe-App: Flutter simple project for Free Times (github.com).<br/>
 c) Flutter Wallpaper App : Ananta98/Flutter-Wallpaper-App: Flutter wallpaper app project using pexels API (github.com)<br/>
 React JS:<br/>
 a) Job Finder React JS : https://ananta-final-react.netlify.app/<br/>
+b) Github Explorer: https://github-explorer-eight.vercel.app/<br/>
+Next JS:<br/>
+a) Sanber Daily : https://sanber-daily-smoky.vercel.app/<br />
 
 🏵️ Live Demo Portfolio:<br/>
 a) Blogspot Golang Backend : https://fp-sanbercode-go-48-ananta-production.up.railway.app/swagger/index.html<br/>
