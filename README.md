@@ -5,7 +5,7 @@
 💬 Ask me about my experience in programming languages and working on a wide range of projects.<br/>
 ⚡ Fun fact: In my free time, I always learn new technology stack to expanding my knowledge to be able relevant in tech Industry. From programming languages, frameworks, and github repository trendings<br/>
 
-👯 For My Profile Portfolio Website: https://ananta-portfolio-website.vercel.app/
+👯 For My Profile Portfolio website https://anantas-digital-canvas.lovable.app
 
 📃 Highlighted Portfolio:<br/>
 Golang:<br/>
